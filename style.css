@@ -12,6 +12,10 @@
   flex-start flex-end */
 }
 
+h1 {
+  color: red;
+}
+
 p {
   background-color: rgb(211, 88, 209);
   margin: 10px;
